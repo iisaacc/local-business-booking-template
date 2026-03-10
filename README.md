@@ -8,9 +8,9 @@ The goal of this project is to help small service businesses **capture booking r
 
 ## Preview
 
-![Website preview](./screenshots/preview.png)
+![Website preview](./web.gif)
 
-*(Add screenshots or GIFs of the homepage and booking form here)*
+
 
 ---
 
