@@ -1,20 +1,62 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Innes Mechanical — Booking Website
 
-# Run and deploy your AI Studio app
+A **mobile-first booking website** built for **Innes Mechanical**, a local motorcycle workshop in Byron Bay.
 
-This contains everything you need to run your app locally.
+The goal of this project is to help small service businesses **capture booking requests online**, reduce missed calls, and streamline customer scheduling.
 
-View your app in AI Studio: https://ai.studio/apps/42cfa2bd-7b41-447d-8000-4d28071752a8
+---
 
-## Run Locally
+## Preview
 
-**Prerequisites:**  Node.js
+![Website preview](./screenshots/preview.png)
 
+*(Add screenshots or GIFs of the homepage and booking form here)*
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## Features
+
+- 📱 **Mobile-first responsive design**
+- 📅 **Service booking form**
+- 🔧 **Service listings**
+- ❓ **FAQ section**
+- 📞 **Contact information & opening hours**
+- ✨ Clean UI with subtle animations
+- ⚡ Fast development environment
+
+---
+
+## Tech Stack
+
+| Technology | Purpose |
+|-----------|--------|
+| React + TypeScript | Frontend framework |
+| Vite | Development server & build tool |
+| Tailwind CSS | Utility-first styling |
+| Lucide | Icon library |
+| Motion library | Micro-interactions |
+
+---
+
+## Project Goal
+
+This project demonstrates how a **simple modern web stack** can be used to create practical tools for small local businesses.
+
+It focuses on:
+
+- usability
+- mobile experience
+- fast performance
+- simple deployment
+
+---
+
+## Local Development
+
+Clone the repository and run locally:
+
+```bash
+git clone https://github.com/yourusername/innes-mechanical-booking.git
+cd innes-mechanical-booking
+npm install
+npm run dev
